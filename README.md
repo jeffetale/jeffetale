@@ -2,8 +2,6 @@
 
 # 🌟 Welcome to My GitHub Profile!
 
-![Header](https://via.placeholder.com/1500x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace with a custom banner -->
-
 ## 👨‍💻 About Me
 
 Hi there! I'm a passionate **Software Engineer**, **Cybersecurity Enthusiast**, and **AI Developer** with a knack for solving problems and building innovative solutions. 🌟 
