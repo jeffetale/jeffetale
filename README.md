@@ -6,11 +6,11 @@
 
 Hi there! I'm a passionate **Software Engineer**, **Cybersecurity Enthusiast**, and **AI Developer** with a knack for solving problems and building innovative solutions. 🌟 
 
-- 🌐 **Languages:** Python, JavaScript, HTML, React (JSX)
+- 🌐 **Languages:** Python, JavaScript, TypeScript, HTML, React (JSX)
 - 🎨 **Styling Framework:** Tailwind CSS
-- 💻 **OS Preference:** Ubuntu with Kali Linux VM for ethical hacking
+- 💻 **OS Preference:** macOS, Ubuntu, Kali Linux VM for ethical hacking
 - 🛡️ **Cybersecurity Skills:** Ethical hacking, vulnerability assessment, and network security
-- ⚽ **Hobbies:** Football, sports, and exploring new technologies
+- ⚽ **Hobbies:** Finance and trading, sports, and exploring new technologies
 - 🔬 **Focus Areas:** AI, trading bots, full-stack development, and blogging
 
 ---
@@ -32,7 +32,7 @@ Hi there! I'm a passionate **Software Engineer**, **Cybersecurity Enthusiast**, 
   <img src="https://github-readme-stats.vercel.app/api?username=jeffetale&show_icons=true&theme=radical" alt="GitHub Stats">
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=jeffetale&theme=radical" alt="GitHub Streak">
+  [![GitHub Streak](https://github-readme-streak-stats-jade-two.vercel.app?user=jeffetale&theme=highcontrast)](https://git.io/streak-stats)
 </p>
 
 ---
