@@ -30,8 +30,11 @@ Hi there! I'm a passionate **Software Engineer**, **Cybersecurity Enthusiast**, 
 ## 📈 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jeffetale&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffetale&theme=radical" alt="GitHub Streak">
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=jeffetale&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
